@@ -1,0 +1,12 @@
+cmake-build-debug/
+cmake-build-dir/
+.git*
+.idea*
+.vscode*
+
+data*
+point_clouds*
+PTCLD*
+
+Y*
+a.out
