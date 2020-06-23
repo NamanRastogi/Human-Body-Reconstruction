@@ -8,7 +8,7 @@ This project is an implementation of 2002 Research Paper [SCAPE : Shape Completi
 3. FreeGLUT
 4. ASSIMP
 5. LibPCA
-6. Ceres-Solver v1.12 (New version is slower)
+6. Ceres-Solver v1.12 (specifically)
 7. cvxpy v0.4.11 (New version is slower and requires some changes to code)
 
 
